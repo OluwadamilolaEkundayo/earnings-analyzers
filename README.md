@@ -18,7 +18,7 @@ As a Yale economics graduate exploring the interestion of AI and finance, I want
 - **Frontend** - HTML, CSS, Javascript
 - **Key libraries** - anthropic, flask, python-dotenv
 
-- ## How to run it locally
+## How to run it locally
 
   1. Clone the repo
   2. Create a virtual environment and install dependecies:
