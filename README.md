@@ -11,7 +11,7 @@ Paste any earnings call transcript into the tool and it returns:
 - **Investment Thesis** - a plain-English Bullish, Bearish, or Mixed signal with reasoning
 
 ## Why I built this
-As a Yale economics graduate exploring the interestion of AI and finance, I want to build something that addresses a real workflow problem: analysts spend hours manually reading earnings call transcripts to extract the same categories of information every quarter. This tool does that in seconds using Claude's API, freeing up analyst time for higher-judgement
+Exploring the interestion of AI and finance, I wanted to build something that addresses a real workflow problem: analysts spend hours manually reading earnings call transcripts to extract the same categories of information every quarter. This tool does that in seconds using Claude's API, freeing up analyst time for higher-judgement
 
 ## Tech stack
 - **Backend** - Python, Flask, Anthropic Claude API
