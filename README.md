@@ -23,7 +23,9 @@ As a Yale economics graduate exploring the interestion of AI and finance, I want
   1. Clone the repo
   2. Create a virtual environment and install dependecies:
      python3 -m venv venv
+     
      source venv/bin/activate
+     
      pip install anthropic flask python-dotenv
   4. Create a '.env' file with your Anthropic API key:
      ANTHROPIC_API_KEY=your_key_here
