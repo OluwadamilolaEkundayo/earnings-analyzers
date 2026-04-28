@@ -22,6 +22,7 @@ As a Yale economics graduate exploring the interestion of AI and finance, I want
 
   1. Clone the repo
   2. Create a virtual environment and install dependecies:
+
      python3 -m venv venv
      
      source venv/bin/activate
